@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/3column-preview-card-component-css-tailwind-t4AUhHQIh)
-- Live Site URL: [Live Site URL](https://jol-frontend-mentor-6.netlify.app/)
+- Live Site URL: [Live Site URL](https://jol-3column-preview-card-component.netlify.app/)
 
 ## My process
 
