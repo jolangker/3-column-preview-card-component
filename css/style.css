@@ -1,0 +1,12 @@
+:root {
+  --lexend-deca: "Lexend Deca", sans-serif;
+  --big-shoulder-display: "Big Shoulders Display", cursive;
+}
+
+h1 {
+  font-family: var(--big-shoulder-display);
+}
+
+p {
+  font-family: var(--lexend-deca);
+}
